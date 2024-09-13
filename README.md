@@ -1,3 +1,7 @@
+Please start the backend by using command "node index"
+After Starting the backend, You can start the frontend by using command "npm start" inside the terminal
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
